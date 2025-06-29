@@ -48,4 +48,4 @@ eval(expr, {"math": math, "__builtins__": {}})
 Still, it is **not safe** for untrusted input. Use with caution.
 
 ## 📄 License
-MIT License – feel free to use, modify, and distribute.
+Feel free to use, modify, and distribute.
