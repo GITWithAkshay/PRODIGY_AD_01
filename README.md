@@ -11,7 +11,8 @@ A modern, responsive, and theme-switchable scientific calculator built with Pyth
 
 ## 📸 Screenshot
 ![image alt](https://github.com/GITWithAkshay/PRODIGY_AD_01/blob/3e5e5b17f62ad0d40047ae1d8d59f430c16952f3/Screenshot%20(182).png)
-
+![image alt](https://github.com/GITWithAkshay/PRODIGY_AD_01/blob/79ce2bdbffa61317863086e6d084da2659437a9b/Screenshot%20(180).png)
+![image alt](https://github.com/GITWithAkshay/PRODIGY_AD_01/blob/79ce2bdbffa61317863086e6d084da2659437a9b/Screenshot%20(181).png)
 ## 🚀 Getting Started
 
 ### Prerequisites
