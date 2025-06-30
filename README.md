@@ -26,7 +26,7 @@ cd scientific-calculator-app
 Make sure you have **Python 3.7+** installed.
 You will also need to install:
 ```bash
-pip install customtkinter
+pip install -r requirements.txt
 ```
 
 ### Running the App
